@@ -7,4 +7,5 @@ This is a repository for testing a model of branching for version control
  
 Contact Info: 
   Name: John
+  Phone: 555-555-5555
 
